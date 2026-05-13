@@ -8,7 +8,8 @@ A modern Android application built with **Jetpack Compose** that displays a cate
 
 ## 📱 Final Preview
 
-*(Attach your screenshots here on GitHub to showcase your final lazyview)*
+<img width="480" height="852" alt="Screenshot from 2026-04-20 15-15-45" src="https://github.com/user-attachments/assets/5f277fe5-dc3d-4700-af4b-266b21c90038" />
+
 
 ---
 
