@@ -14,20 +14,17 @@ A modern Android application built with **Jetpack Compose** that displays a cate
 
 ## ✨ Features
 
-* 
-**Adaptive Grid Layout:** Implements a `LazyVerticalGrid` with a fixed 2-column configuration for optimal data visualization.
+* **Adaptive Grid Layout:** Implements a `LazyVerticalGrid` with a fixed 2-column configuration for optimal data visualization.
 
 
 * 
 **Material 3 Components:** Utilizes modern `Card`, `Row`, and `Column` structures to create a clean, responsive interface.
 
 
-* 
-**Dynamic Data Binding:** Maps a structured `DataSource` to the UI, reflecting real-world software engineering practices.
+* **Dynamic Data Binding:** Maps a structured `DataSource` to the UI, reflecting real-world software engineering practices.
 
 
-* 
-**Visual Precision:** Features consistent spacing, `aspectRatio` control, and `ContentScale.Crop` for professional image rendering.
+* **Visual Precision:** Features consistent spacing, `aspectRatio` control, and `ContentScale.Crop` for professional image rendering.
 
 
 
@@ -35,16 +32,13 @@ A modern Android application built with **Jetpack Compose** that displays a cate
 
 ## 🛠️ Tech Stack
 
-* 
-**Language:** Kotlin 
+* **Language:** Kotlin 
 
 
-* 
-**UI Framework:** Jetpack Compose 
+* **UI Framework:** Jetpack Compose 
 
 
-* 
-**Design System:** Material Design 3 
+* **Design System:** Material Design 3 
 
 
 * **Environment:** Developed on **Ubuntu Linux**.
