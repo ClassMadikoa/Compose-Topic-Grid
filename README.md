@@ -1,4 +1,3 @@
-Here is the professional **README.md** tailored for your repository. Since you are building a portfolio to showcase your skills as a **Software Developer** and **Data Engineer**, this version focuses on clean architecture and technical implementation.
 
 ---
 
@@ -95,4 +94,3 @@ git push origin main
 
 
 
-This documentation highlights your "detective work" in scanning and fixing datasets to create a functional UI, a skill you've noted as a personal favorite.
