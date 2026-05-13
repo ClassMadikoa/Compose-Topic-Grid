@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.8.0" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.courses.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.color.black"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="23"
+            column="12"
+            startOffset="930"
+            endLine="23"
+            endColumn="24"
+            endOffset="942"/>
+        <location id="R.color.purple_200"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="18"
+            column="12"
+            startOffset="699"
+            endLine="18"
+            endColumn="29"
+            endOffset="716"/>
+        <location id="R.color.purple_500"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="19"
+            column="12"
+            startOffset="746"
+            endLine="19"
+            endColumn="29"
+            endOffset="763"/>
+        <location id="R.color.purple_700"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="20"
+            column="12"
+            startOffset="793"
+            endLine="20"
+            endColumn="29"
+            endOffset="810"/>
+        <location id="R.color.teal_200"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="21"
+            column="12"
+            startOffset="840"
+            endLine="21"
+            endColumn="27"
+            endOffset="855"/>
+        <location id="R.color.teal_700"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="22"
+            column="12"
+            startOffset="885"
+            endLine="22"
+            endColumn="27"
+            endOffset="900"/>
+        <location id="R.color.white"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="24"
+            column="12"
+            startOffset="972"
+            endLine="24"
+            endColumn="24"
+            endOffset="984"/>
+        <location id="R.xml.backup_rules"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/xml/backup_rules.xml"
+            line="8"
+            column="1"
+            startOffset="326"
+            endLine="13"
+            endColumn="23"
+            endOffset="478"/>
+        <location id="R.xml.data_extraction_rules"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/xml/data_extraction_rules.xml"
+            line="6"
+            column="1"
+            startOffset="221"
+            endLine="19"
+            endColumn="25"
+            endOffset="551"/>
+        <entry
+            name="model"
+            string="color[purple_200(D),purple_500(D),purple_700(D),teal_200(D),teal_700(D),black(D),white(D)],dimen[padding_medium(U),padding_small(U)],drawable[architecture(U),automotive(U),biology(U),business(U),crafts(U),culinary(U),design(U),drawing(U),ecology(U),engineering(U),fashion(U),film(U),finance(U),gaming(U),geology(U),history(U),ic_grain(U),ic_launcher_background(U),journalism(U),law(U),lifestyle(U),music(U),painting(U),photography(U),physics(U),tech(U),ic_launcher_foreground(U),ic_launcher_foreground_1(R)],mipmap[ic_launcher(U),ic_launcher_round(U)],string[app_name(U),architecture(U),automotive(U),biology(U),crafts(U),business(U),culinary(U),design(U),ecology(U),engineering(U),fashion(U),finance(U),film(U),gaming(U),geology(U),drawing(U),history(U),journalism(U),law(U),lifestyle(U),music(U),painting(U),photography(U),physics(U),tech(U)],style[Theme_Courses(U)],xml[backup_rules(D),data_extraction_rules(D)];23^24,25^1a^23,26^1a^23;;;"/>
+    </map>
+
+</incidents>
