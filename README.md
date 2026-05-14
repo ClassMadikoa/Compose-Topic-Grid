@@ -71,16 +71,6 @@ LazyVerticalGrid(
 2. Open the project in **Android Studio**.
 3. Sync the **Gradle** files and run the app on an emulator or physical device.
 
----
-
-### **How to add this to your project:**
-
-1. In your terminal (inside the project folder), run: `nano README.md`
-2. **Paste** the content above.
-3. **Save and Push:**
-```bash
-
-
 ```
 
 
