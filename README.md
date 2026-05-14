@@ -79,9 +79,7 @@ LazyVerticalGrid(
 2. **Paste** the content above.
 3. **Save and Push:**
 ```bash
-git add README.md
-git commit -m "docs: create professional README for portfolio"
-git push origin main
+
 
 ```
 
